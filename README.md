@@ -1,2 +1,2 @@
 # NOVA-website
-wesite for nova 
+website for nova 
